@@ -1,4 +1,4 @@
-class Ddar < Formula
+class AADdar < Formula
   desc "De-duplicating archiver"
   homepage "https://github.com/basak/ddar"
   url "https://github.com/basak/ddar/archive/v1.0.tar.gz"
