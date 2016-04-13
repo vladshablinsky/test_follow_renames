@@ -1,4 +1,4 @@
-class Ack < Formula
+class BBck < Formula
   desc "A search tool like grep, but optimized for programmers"
   homepage "http://beyondgrep.com/"
   url "http://beyondgrep.com/ack-2.14-single-file"
