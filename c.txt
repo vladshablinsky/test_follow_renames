@@ -1,4 +1,4 @@
-class Babl < Formula
+class CCCCCCCC < Formula
   desc "Dynamic, any-to-any, pixel format translation library"
   homepage "http://www.gegl.org/babl/"
   url "https://download.gimp.org/pub/babl/0.1/babl-0.1.16.tar.bz2"
